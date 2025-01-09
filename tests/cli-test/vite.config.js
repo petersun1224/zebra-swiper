@@ -12,6 +12,6 @@ export default defineConfig({
   },
   plugins: [uni()],
   server: {
-    port: 5177
+    port: 5173
   }
 })
